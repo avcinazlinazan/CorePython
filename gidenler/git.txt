@@ -1,0 +1,3 @@
+git init  -> önce .git oluşturur
+git .add -> bütün dosyalar eklemek için
+git ->status  ->kontrol için
